@@ -2,7 +2,7 @@
 <html>
 <head>
   <h1> BillBoard </h1>
-  <h4> Updates Every Thursday at 2:30am PST </h4>
+  <h4> Updates Every Webnesday at 2:30am PST </h4>
   </head>
 <body>
   <a href=".com">
