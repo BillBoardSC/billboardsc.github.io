@@ -1,17 +1,30 @@
 <!DOCtype html>
 <html>
 <head>
-  <h3> BillBoard Short Cut </h3>
-  <h5> Choose one of these </h5>
-</head>
+  <h1> BillBoard </h1>
+  <h4> Updates Every Thursday at 2:30am PST </h4>
+  </head>
 <body>
-  <a href="url">Billboard>
-    <img src=".png" alt="" style="width:42px;height:42px;"></a>
-  <a href="url">Billboard</a>
-  <a href="url">Billboard</a>
-  <a href="url">Billboard</a>
-  <a href="url">Billboard</a>
-  <a href="url">Billboard</a>
-  <a href="url">Billboard</a>
+  <a href=".com">
+<img src=".png" alt="" style="width:450px;height:150px;">
+</a>
+  <a href=".com">
+<img src=".png" alt="" style="width:450px;height:150px;">
+</a>
+   <a href=".com">
+<img src=".png" alt="" style="width:450px;height:150px;">
+</a>
+   <a href=".com">
+<img src=".png" alt="" style="width:450px;height:150px;">
+</a>
+   <a href=".com">
+<img src=".png" alt="" style="width:450px;height:150px;">
+</a>
+   <a href=".com">
+<img src=".png" alt="" style="width:450px;height:150px;">
+</a>
+   <a href=".com">
+<img src=".png" alt="" style="width:450px;height:150px;">
+</a>
   </body>
   </html>
