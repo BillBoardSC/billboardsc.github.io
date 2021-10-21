@@ -1,6 +1,32 @@
 <!DOCtype html>
 <html>
   <style>
+    .arrow {
+  border: solid black;
+  border-width: 0 3px 3px 0;
+  display: inline-block;
+  padding: 3px;
+}
+
+.right {
+  transform: rotate(-45deg);
+  -webkit-transform: rotate(-45deg);
+}
+
+.left {
+  transform: rotate(135deg);
+  -webkit-transform: rotate(135deg);
+}
+
+.up {
+  transform: rotate(-135deg);
+  -webkit-transform: rotate(-135deg);
+}
+
+.down {
+  transform: rotate(45deg);
+  -webkit-transform: rotate(45deg);
+}
 table, th, td {
   border:1px solid black;
 }
@@ -17,10 +43,11 @@ table, th, td {
     <th>      </th>
   </tr>
   <tr>
-    <td>1. <i class="arrow up"></i></p> .up {
+    <td>1. .up {
   transform: rotate(-135deg);
   -webkit-transform: rotate(-135deg);
-} </td>
+}
+ </td>
     <td><b>Industrial Baby</b></td>
     <td>Lil Nas X & Jack Harlow</td>
     <td><img src="Industrial Baby.jpg" width="100px" height="75px"></td>
